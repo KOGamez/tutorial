@@ -49,3 +49,5 @@ while True:
     # Update the display and control frame rate
     pygame.display.update()  # Refresh the display with new drawings
     clock.tick(60)  # Limit to 60 frames per second
+
+#this is a test print
